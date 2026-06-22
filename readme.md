@@ -53,7 +53,7 @@ Example response:
 # How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/lmrick/go-api.git
 
 # Navigate to the project folder
 cd go-api
